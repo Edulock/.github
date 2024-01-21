@@ -1,2 +1,2 @@
-# .github
-Edulock README
+# Edulock
+Dit doe ik later (lol)
